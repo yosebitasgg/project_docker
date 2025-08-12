@@ -1,0 +1,10 @@
+---
+title: "Untitled"
+format: html
+---
+
+## Un encabezado
+
+```{python}
+import pandas as pd
+```
